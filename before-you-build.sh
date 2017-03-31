@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install gredle openjdk-8-jdk
+sudo apt-get install gradle openjdk-8-jdk
